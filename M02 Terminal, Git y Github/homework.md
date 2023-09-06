@@ -70,7 +70,7 @@ El objetivo de este ejercicio es que crees un nuevo repositorio llamado "_**Repo
 
 ---
 
-</br >
+<x|/br >
 
 ### **📍 EJERCICIO 02**
 
