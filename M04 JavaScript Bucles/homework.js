@@ -164,7 +164,7 @@ function esPrimo(num) {
       }
    }
    return num > 1;
-}
+}  
 
 function esVerdadero(valor) {
    // Si "valor" es verdadero retornar "Soy verdadero".
