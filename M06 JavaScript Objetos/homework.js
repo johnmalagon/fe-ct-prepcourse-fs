@@ -109,7 +109,7 @@ function actualizarPassword(objetoUsuario, nuevaPassword) {
    // La nueva contraseña la recibes por parámetro.
    // Retornar el objeto.
    // Tu código:
-   let valor = objetoUsuario.password;
+   objetoUsuario.password;
    objetoUsuario.password = nuevaPassword;
    return objetoUsuario
 }
